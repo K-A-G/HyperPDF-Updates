@@ -1,0 +1,7 @@
+{
+  "version": "0.1.15",
+  "published_at": "YYYY-MM-DD",
+  "release_notes": "Replace this with the notes for the release.",
+  "installer_url": "https://github.com/K-A-G/HyperPDF-Updates/releases/download/v0.1.15/HyperPDF_Reader_Setup.exe",
+  "sha256": "REPLACE_WITH_THE_64_CHARACTER_SHA256_FROM_GENERATE_SCRIPT"
+}

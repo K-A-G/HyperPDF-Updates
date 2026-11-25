@@ -1,0 +1,4 @@
+# Never commit installers or temporary build artifacts directly to the branch.
+*.exe
+*.download
+*.tmp
