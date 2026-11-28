@@ -1,7 +1,7 @@
 {
-  "version": "0.1.18",
+  "version": "0.1.19",
   "published_at": "2026-11-28",
   "release_notes": "Replace this with the notes for the release.",
-  "installer_url": "https://github.com/K-A-G/HyperPDF-Updates/releases/download/v0.1.18/HyperPDF_Reader_Setup.exe",
-  "sha256": "e3fde03656c34a53f817828fa7c5f9460f6489d4d887a593eadf23e41a34896d"
+  "installer_url": "https://github.com/K-A-G/HyperPDF-Updates/releases/download/v0.1.19/HyperPDF_Reader_Setup.exe",
+  "sha256": "4399551180eb8372bf31ade8f506a0a8fa5c5777b40d3d4bdf058605a2375663"
 }
